@@ -36,7 +36,7 @@ cp -av [jdk_descomprimido] /usr/java
 
 1. Seleccionamos 1 y damos enter
 
-> Enter the name of the database server [localhost]:se ingresa el nombre del servidor donde esta la base de datos ej [pl-veyco-dboc1]
+> Enter the name of the database server [localhost]:se ingresa el nombre del servidor donde esta la base de datos ej [pl-xxxx-dboc1]
 
 2. Damos enter
 
@@ -44,4 +44,4 @@ cp -av [jdk_descomprimido] /usr/java
 
 3. Damos enter
 
-> Enter the database service name: [nos provee base de datos] EJ. timmy.PROD
+> Enter the database service name: [nos provee base de datos] EJ. xxxx.PROD
